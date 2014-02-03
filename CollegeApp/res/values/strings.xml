@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">College App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="s_1">Enter the number of working days</string>
+    <string />
+    <string name="s_2">Enter the number of periods each day</string>
+
+</resources>
